@@ -1,7 +1,7 @@
 # Broken_Chess_Board_Cover
 A java desktop application visualizes the process of covering broken chess board, which is a classical example of divide-and-conquer algorithm, and also allow to manual cover.
 
-![image](https://github.com/DrS1X/Broken_Chess_Board_Cover/blob/main/UI.png)
+![UI](https://github.com/DrS1X/Broken_Chess_Board_Cover/blob/main/UI.png)
 
 ## Feature
 1. Control the process of automatic cover, including stop, continue and back.
